@@ -1,0 +1,8 @@
+[package]
+name = "dweb-core"
+version = "0.1.0"
+edition = "2021"
+publish = true
+
+[dependencies]
+tokio = { version = "1.37.0", features = ["full"] }
